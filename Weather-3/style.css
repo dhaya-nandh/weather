@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: pink;
+}
+.container{
+    margin: 5% 20%;
+    padding-left: 10%;
+    width: 25rem;
+    height:500%;
+    background-color:lightcyan;
+}
+.starting{
+    width:15rem;
+    height:20px;
+    border: 1px solid blue;
+    background-color: #fff;
+    
+}
+.starting input{
+    outline: none;
+    border:none;
+    padding-left: 10px;
+}
+.starting button{
+    background-color: red;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.starting button:hover{
+    background-color: green;
+}
+p{
+    color:blueviolet;
+}
